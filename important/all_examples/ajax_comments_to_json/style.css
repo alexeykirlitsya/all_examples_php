@@ -1,0 +1,22 @@
+.form{
+    width: 200px;
+    margin: 10px auto;
+}
+input {
+    width: 198px;
+}
+textarea {
+    width: 198px;
+    height: 150px;
+}
+.result{
+    width: 200px;
+    height: 100px;
+    border: 1px solid whitesmoke;
+    margin: 10px auto;
+}
+#button{
+    margin: 10px 0 0 0;
+    display:block;
+    width: 202px;
+}

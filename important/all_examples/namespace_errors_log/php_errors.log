@@ -1,0 +1,3 @@
+[06-Jun-2018 13:06:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in D:\xampp\htdocs\namespace\index.php on line 10
+[06-Jun-2018 13:06:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in D:\xampp\htdocs\namespace\index.php on line 10
+[06-Jun-2018 13:08:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ';' in D:\xampp\htdocs\namespace\one\Bla.php on line 9
